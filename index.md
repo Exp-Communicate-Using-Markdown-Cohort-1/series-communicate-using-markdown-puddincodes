@@ -83,3 +83,8 @@ Copy to Clipboard
 p.fancy {
   color: red;
 }
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
